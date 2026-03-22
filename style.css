@@ -39,7 +39,7 @@ box-shadow:0 6px 15px rgba(0,0,0,0.1);
 transition:0.3s;
 }
 
-/* ✨ subtle hover effect */
+
 section:hover{
 transform:translateY(-5px);
 }
